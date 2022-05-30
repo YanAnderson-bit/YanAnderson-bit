@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YanAnderson-bit
-- 👀 I’m interested in frontend/backend and mobile development and learning different tecnologies
+- 👀 I’m interested in frontend/backend and mobile development and learning different technologies.
 - 🌱 I’m currently learning and working as a full stack developer using mainly React,React Native   NodeJS.
 - 📫 How to reach me: yan.anderson135@gmail.com
 
